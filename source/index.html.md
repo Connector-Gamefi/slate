@@ -497,10 +497,6 @@ tokenID_ | uint256 | NFT 的唯一标识
 attrIndexes_ | uint256[] | 对应属性在NFT属性列表中的下标数组
 values_ | uint128[] | 需要设置的对应属性的新值集合，每个元素下标与attrIndexes_元素的对应
 
-### ERC721 金库合约
-
-## 交易市场合约
-
 # 控件列表
 
 ## 右边代码：
